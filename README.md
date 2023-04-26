@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsh Jha
 - 👀 I’m interested in working on interactive projects as a coder and contributing to open source 
-- 🌱 I’m currently undergoing BTech in Computer Science and Engineering and am keenly interested in improvising myself
+- 🌱 I’m currently undergoing BTech in Computer Science and Engineering and am keenly interested in improvising my skillset.
 - 💞️ Can code in C/C++/Python
 - 📫 Email : harshjha11255@gmail.com 
 
