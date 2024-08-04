@@ -2,7 +2,7 @@
 - 👀 I’m interested in working on interactive projects as a coder and contributing to open source 
 - 🌱 I’m currently undergoing BTech in Computer Science and Engineering and am keenly interested in improvising my skillset.
 - 💞️ Can code in JAVA/C++/Python
-- 📫 Email : harshjha113.hitcse2020@gmail.com 
+- 📫 Email : harshjha1125@gmail.com 
 
 <!---
 predator0789/predator0789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
