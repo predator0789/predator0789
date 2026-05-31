@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Harsh Jha
-- 👀 I’m interested in working on interactive projects as a coder and contributing to open source 
-- 🌱 I’m currently undergoing BTech in Computer Science and Engineering and am keenly interested in improvising my skillset.
-- 💞️ Can code in JAVA/C++/Python
-- 📫 Email : harshjha1125@gmail.com 
+Associate Software Engineer | Spring Boot • Java • REST APIs | Agile Practitioner | Interested in Product Management & Technical Product Ownership
 
 <!---
 predator0789/predator0789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
